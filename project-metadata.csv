@@ -1,0 +1,14 @@
+﻿ref.genome_fasta;D:\HORVU.MOREX_V3.fasta
+ref.genome_ann;D:\HORVU.MOREX_V3.gff3
+ref.transcriptome_fasta;C:\Users\ПК\Documents\bachelor\data\reference_data\BaRT2v18.fasta
+ref.transcriptome_ann;C:\Users\ПК\Documents\bachelor\data\reference_data\BaRT2v18_annotation.gtf
+sample.metadata_ref;D:\ASD_BachelorFinalProject\BachelorFinalProject\supplementary-files\sample-metadata_ref.csv
+sample.metadata_gamma;D:\ASD_BachelorFinalProject\BachelorFinalProject\supplementary-files\sample-metadata_gamma.csv
+sample.metadata_proton;D:\ASD_BachelorFinalProject\BachelorFinalProject\supplementary-files\sample-metadata_proton.csv
+bart.horvu.mapping;D:\ASD_BachelorFinalProject\BachelorFinalProject\supplementary-files\bart.horvu.mapping.csv
+qc.data.folder_raw;C:\Users\ПК\Documents\bachelor\data\1_QC\raw_qc\
+qc.data.folder_trim;C:\Users\ПК\Documents\bachelor\data\1_QC\fastp_qc\
+align.data_star;C:\Users\ПК\Documents\bachelor\data\2_Aligning\star+featureCounts\
+align.data_kallisto;C:\Users\ПК\Documents\bachelor\data\2_Aligning\kallisto\
+graphs.folder;D:\ASD_BachelorFinalProject\BachelorFinalProject\graphs-folder\
+intermediate.files.folder;D:\ASD_BachelorFinalProject\BachelorFinalProject\intermediate-files-folder\
